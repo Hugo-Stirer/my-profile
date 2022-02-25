@@ -1,0 +1,108 @@
+body {
+  background-color: #FFFFFF;
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  color: #020202;
+  line-height: 16px;
+
+}
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size:24px;
+  line-height: 24px;
+}
+
+span {
+  font-family: 'Merriweather', serif;
+  font-size: 24px;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 16px;
+  letter-spacing: 0px;
+}
+
+a {
+  font-size: 20px;
+  line-height: 32px;
+  color: #020202;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.6s ease;
+}
+
+a:hover {
+  color: #E23E57;
+  font-weight: bolder;
+}
+
+.list-inline {
+ list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+#Works {
+  padding-left: 30px;
+}
+
+#Neko {
+  padding-left: 30px;
+  padding-right: px;
+}
+
+#Insta {
+  padding-left: 40px;
+}
+
+#img-circle {
+  border-radius: 50%;
+  width: 200px;
+}
+
+.card-navbar {
+  width: max;
+  padding: 8px;
+  background-color: white;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card-white {
+  width: max;
+  margin: 20px auto;
+  background-color: white;
+  padding: 32px;
+  padding-bottom: 16px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.0);
+  text-align: center;
+  line-height: 64px;
+}
+
+.card-images {
+  width: max;
+  margin: 20px auto;
+  background-color: white;
+  padding: 32px 30px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.0);
+  text-align: center;
+}
+
+.images-Jap {
+  width: 300px;
+  padding: 10px;
+}
+
+.Header {
+  height: 2px;
+  width: 3%;
+  background-color: #E23E57;
+  margin: 0px auto;
+}
+
